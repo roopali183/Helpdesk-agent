@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ticket": "How do I set up VPN?",
+    "called": [],
+    "passed": false,
+    "error": "Error code: 503",
+    "seconds": 33.0,
+    "answer": null
+  },
+  {
+    "id": 2,
+    "ticket": "What is the password policy?",
+    "called": [],
+    "passed": false,
+    "error": "Error code: 429",
+    "seconds": 23.4,
+    "answer": null
+  },
+  {
+    "id": 3,
+    "ticket": "How do I install new software?",
+    "called": [],
+    "passed": false,
+    "error": "Error code: 429",
+    "seconds": 23.8,
+    "answer": null
+  },
+  {
+    "id": 4,
+    "ticket": "My laptop is very slow",
+    "called": [],
+    "passed": false,
+    "error": "Error code: 429",
+    "seconds": 23.7,
+    "answer": null
+  }
+]
